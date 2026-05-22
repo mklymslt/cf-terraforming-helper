@@ -8,6 +8,14 @@ Exports common Cloudflare Zero Trust Terraform resources for a single account in
 - `cf-terraforming` `0.25.0` or newer installed and available in `PATH`
 - a Cloudflare account ID
 
+## Setup
+
+Make the script executable:
+
+```bash
+chmod +x ./export-zero-trust-simple.sh
+```
+
 ## Authentication
 
 Use one of these auth methods.
