@@ -67,3 +67,37 @@ If you see output like `"..." is not yet supported for automatic generation`, yo
   - `cloudflare_zero_trust_dlp_custom_profile`
   - `cloudflare_zero_trust_dlp_predefined_profile`
   - `cloudflare_zero_trust_tunnel_cloudflared_config`
+ 
+  ## Resources
+  cloudflare_zero_trust_access_application
+  cloudflare_zero_trust_access_custom_page
+  cloudflare_zero_trust_access_group
+  cloudflare_zero_trust_access_identity_provider
+  cloudflare_zero_trust_access_infrastructure_target
+  cloudflare_zero_trust_access_key_configuration
+  cloudflare_zero_trust_access_mtls_certificate
+  cloudflare_zero_trust_access_mtls_hostname_settings
+  cloudflare_zero_trust_access_policy
+  cloudflare_zero_trust_access_service_token
+  cloudflare_zero_trust_access_short_lived_certificate
+  cloudflare_zero_trust_access_tag
+  cloudflare_zero_trust_device_custom_profile
+  cloudflare_zero_trust_device_default_profile
+  cloudflare_zero_trust_device_default_profile_local_domain_fallback
+  cloudflare_zero_trust_device_managed_networks
+  cloudflare_zero_trust_device_posture_integration
+  cloudflare_zero_trust_device_posture_rule
+  cloudflare_zero_trust_dex_test
+  cloudflare_zero_trust_dlp_dataset
+  cloudflare_zero_trust_dns_location
+  cloudflare_zero_trust_gateway_certificate
+  cloudflare_zero_trust_gateway_policy
+  cloudflare_zero_trust_gateway_proxy_endpoint
+  cloudflare_zero_trust_gateway_settings
+  cloudflare_zero_trust_list
+  cloudflare_zero_trust_organization
+  cloudflare_zero_trust_risk_behavior
+  cloudflare_zero_trust_risk_scoring_integration
+  cloudflare_zero_trust_tunnel_cloudflared
+  cloudflare_zero_trust_tunnel_cloudflared_route
+  cloudflare_zero_trust_tunnel_cloudflared_virtual_network
